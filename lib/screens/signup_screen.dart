@@ -224,7 +224,7 @@ class _SignUpState extends State<SignUp> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 child: Center(
-                  child: Text("SIGNUP",
+                  child: Text("SIGNUP Talha",
                       style: GoogleFonts.roboto(
                           textStyle: Theme.of(context).textTheme.labelLarge)),
                 ),
